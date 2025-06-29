@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/dmux/lambda-rag-lite/workflows/Tests/badge.svg)](https://github.com/dmux/lambda-rag-lite/actions)
+[![Python Package CI](https://github.com/dmux/lambda-rag-lite/actions/workflows/ci.yml/badge.svg)](https://github.com/dmux/lambda-rag-lite/actions/workflows/ci.yml)
 
 Uma biblioteca Python **ultra-leve** para RAG (Retrieval-Augmented Generation) **criada especificamente para AWS Lambda**, totalmente compatível com **LangChain**, que **elimina dependências pesadas** como NumPy, TensorFlow ou qualquer biblioteca de ML.
 
