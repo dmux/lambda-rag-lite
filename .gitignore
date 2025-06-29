@@ -12,4 +12,9 @@ wheels/
 # Coverage
 .coverage
 .coverage.*
+coverage.xml
 htmlcov/
+.pytest_cache/
+
+# Others
+.ruff_cache/

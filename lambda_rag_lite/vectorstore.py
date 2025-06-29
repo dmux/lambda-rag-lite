@@ -1,8 +1,7 @@
 """
-Vector Store implementation para Lambda RAG Lite.
-
 Fornece uma implementação pura em Python de um vector store compatível
 com a interface LangChain, usando similaridade coseno para busca.
+
 """
 
 from __future__ import annotations
