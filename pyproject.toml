@@ -1,6 +1,6 @@
 [project]
 name = "lambda-rag-lite"
-version = "0.1.0"
+version = "0.2.0"
 description = "Uma biblioteca Python leve para RAG (Retrieval-Augmented Generation) compatível com LangChain, que não requer dependências pesadas como NumPy ou bibliotecas de ML."
 readme = "README.md"
 requires-python = ">=3.10"
